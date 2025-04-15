@@ -1,0 +1,18 @@
+npm install --save bcrypt compression cookie-parser cors dotenv express express-rate-limit helmet joi jsonwebtoken lodash multer nodemailer pg pg-hstore redis sequelize sequelize-cli sharp swagger-ui-express winston
+
+
+npm install --save-dev eslint jest nodemon supertest
+
+npm install --save aws-sdk
+
+
+this is orignal commnda to install npm packages , otherwise it will stucked or showing error.
+
+
+npm install --save jsonwebtoken  
+npm install --save uuid  
+npm install --save express-rate-limit 
+npm install --save xss-clean 
+npm install --save hpp 
+npm install --save nodemailer 
+npm install --save express-validator
